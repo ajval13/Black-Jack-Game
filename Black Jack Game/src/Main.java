@@ -44,7 +44,7 @@ public class Main
 		    	String hitStay = userInput.nextLine();
 		    	if (hitStay.equals("hit"))
 		    		{
-		    		System.out.println("you drew a " +  get);   
+//		    		System.out.println("you drew a " +  get);   
 		    		}
 		    	else if (hitStay.equals("stand"))
 		    	    {
@@ -53,3 +53,4 @@ public class Main
 		    	}
 		    }
 	}
+//Not Done
